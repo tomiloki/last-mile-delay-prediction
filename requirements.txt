@@ -1,0 +1,13 @@
+# Entorno validado con Python 3.11
+# Instalación:  pip install -r requirements.txt
+
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+xgboost==3.2.0
+openpyxl==3.1.5
+
+# Para ejecutar el notebook
+jupyterlab
