@@ -2,7 +2,7 @@
 
 Sistema de *machine learning* que predice, **mientras el conductor está en ruta**, si la próxima parada llegará tarde y cuántos minutos de atraso se esperan — para que la torre de control pueda intervenir **antes** de incumplir la ventana comprometida con el cliente.
 
-Proyecto de Minería de Datos (DUOC UC) desarrollado con la metodología **CRISP-DM** de punta a punta, sobre un dataset real de **249.231 entregas**.
+Proyecto de Minería de Datos (DUOC UC) desarrollado con la metodología **CRISP-DM** completa, sobre un dataset real de **249.231 entregas**.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-orange)
@@ -75,12 +75,8 @@ Lo que separa este proyecto de un notebook cualquiera:
 ├── Mineria_de_datos_E2.ipynb          # Notebook principal (análisis completo)
 ├── informe_final_mineria_completo.md  # Informe técnico final (Markdown)
 ├── Informe_Final_Mineria.pdf          # Informe final (PDF)
-├── Informe_Final_Mineria.docx         # Informe final (Word)
-├── Informe_E1_Mineria_de_Datos.md     # Informe de la Entrega 1
 ├── routes_performance.xlsx            # Dataset de entrada
 ├── img/                               # Figuras generadas (11 gráficos)
-├── outputs/                           # Presentaciones (PPTX / PDF)
-├── docs/                              # Briefs de la evaluación
 ├── requirements.txt
 └── README.md
 ```
